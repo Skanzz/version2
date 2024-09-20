@@ -1,2 +1,2 @@
-version=1.0.1
+version=1.0.3
 url=https://cloud.skanz.de/index.php/s/FTOOL/download/FiveM%20Tool.exe
