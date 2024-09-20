@@ -1,2 +1,2 @@
 version=1.0.1
-url=https://example.com/YourApp.exe
+url=https://cloud.skanz.de/index.php/s/FTOOL/download/FiveM%20Tool.exe
